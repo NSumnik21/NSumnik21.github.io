@@ -118,7 +118,7 @@ input[type=submit]::-moz-focus-inner {
 
 div.portfolio_item{
 	width: 80%;
-	align-content: center;
+	text-align: center;
 	margin: 0 auto;
 }
 div.portfolio_item img{
