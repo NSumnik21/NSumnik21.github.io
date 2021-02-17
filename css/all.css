@@ -121,9 +121,6 @@ div.portfolio_item{
 	text-align: center;
 	margin: 0 auto;
 }
-div.portfolio_item p{
-	text-align: center;
-}
 div.portfolio_item img{
 	display: block;
 	margin-left: auto;
