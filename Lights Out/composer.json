@@ -1,8 +1,0 @@
-{
-    "autoload": {
-        "psr-4": {"Lights\\": "lib/Lights"}
-    },
-    "require": {
-        "phpunit/phpunit": "6"
-    }
-}
